@@ -18,7 +18,7 @@ toy.""" ,
 					"https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",   #noqa
 					"https://www.youtube.com/watch?v=KYz2wyBy3kc") 
 deadpool = media.Movie("Deadpool", 
-						"""Wade Wilson is a former special forces operative who
+				"""Wade Wilson is a former special forces operative who
 works as a mercenary in New York City. He meets escort Vanessa Carlysle at a
 local bar and they become romantically attached. One year later, Wade proposes
 to marry her and she accepts, but he suddenly collapses. Wade is diagnosed
@@ -27,7 +27,7 @@ her to watch him die.""",
 					"https://upload.wikimedia.org/wikipedia/en/4/46/Deadpool_poster.jpg",  #noqa
 					"https://www.youtube.com/watch?v=gtTfd6tISfw") 
 furious_7 = media.Movie("Furious 7", 
-						"""After defeating Owen Shaw and his crew and securing
+				"""After defeating Owen Shaw and his crew and securing
 amnesty for their past crimes, Dominic Dom Toretto, Brian O'Conner, and the
 rest of their team have returned to the United States to live normal lives
 again. Brian begins to accustom himself to life as a father, while Dom tries
@@ -84,7 +84,7 @@ directions.""",
 					"https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",  #noqa
 					"https://www.youtube.com/watch?v=Skpu5HaVkOc") 
 warcraft = media.Movie("Warcraft", 
-						"""Looking to escape from his dying world, the orc
+				"""Looking to escape from his dying world, the orc
 shaman Gul'dan utilizes dark magic to open a portal to the human realm of
 Azeroth. Supported by the fierce fighter Blackhand, Gul'dan organizes the orc
 clans into a conquering army called the Horde. Uniting to protect Azeroth from
@@ -94,7 +94,7 @@ leaders from each side start to question if war is the only answer.""",
  						"https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Warcraft_Teaser_Poster.jpg/440px-Warcraft_Teaser_Poster.jpg",  #noqa
 						"https://www.youtube.com/watch?v=RhFMIRuHAL4") 
 civil_war = media.Movie("Captain America: Civil War", 
-						"""Political pressure mounts to
+				"""Political pressure mounts to
 install a system of accountability when the actions of the Avengers lead to
 collateral damage. The new status quo deeply divides members of the team.
 Captain America (Chris Evans) believes superheroes should remain free to
@@ -105,7 +105,7 @@ pick a side.""",
 						"https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",  #noqa
 						"https://www.youtube.com/watch?v=dKrVegVI0Us") 
 spectre = media.Movie("Spectre", 
-					"""A cryptic message from the past leads James Bond
+			"""A cryptic message from the past leads James Bond
 (Daniel Craig) to Mexico City and Rome, where he meets the beautiful widow
 (Monica Bellucci) of an infamous criminal. After infiltrating a secret
 meeting, 007 uncovers the existence of the sinister organization SPECTRE.
